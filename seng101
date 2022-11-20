@@ -1,0 +1,4 @@
+x=0
+while x<15:
+    print("i love seng101")
+    x=x+1
